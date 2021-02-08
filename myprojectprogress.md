@@ -1,0 +1,1 @@
+At my previous internship I worked within a blessed repository and found it to be a very useful and efficient way of organizing work while knowing what other team members were working on. Thus, I would likely use this kind of repository for my project.
